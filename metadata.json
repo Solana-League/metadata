@@ -1,6 +1,12 @@
 {
     "name": "Solana League Token",
     "symbol": "SLG",
-    "description": "SLG is the Native Token for the Solana League Game",
-    "image": "https://docs.nestjs.com/assets/logo-small-gradient.svg"
+    "description": "The official token for the Solana League game.",
+    "image": "https://docs.nestjs.com/assets/logo-small-gradient.svg",
+    "attributes": [
+        {
+            "trait_type": "Utility",
+            "value": "In-game currency"
+        }
+    ]
 }
